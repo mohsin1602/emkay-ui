@@ -11,4 +11,4 @@ const useCounter = () => {
     }
     return {count , increment , decrement};
 }
-export {useCounter};
+export default {useCounter};

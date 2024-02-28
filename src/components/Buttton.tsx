@@ -2,7 +2,7 @@ import * as React from 'react'
 import {ReactNode} from 'react'
 
 type PropsType = {
-    children : React.ReactNode;
+    children : ReactNode;
 }
 
 function Buttton({children}:PropsType) {
